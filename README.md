@@ -2,32 +2,6 @@
 
 This is a SvelteKit project template configured with your preferred settings and file structure.
 
-## Project Structure
-
-```
-- src
-  - routes
-  - components
-    - buttons
-    - cards
-    - inputs
-    - layouts
-    - modals
-    - navigation
-  - lib
-    - constants
-    - hooks
-    - middleware
-    - models
-    - services
-    - store
-    - utils
-    - validators
-- static
-- package.json
-- svelte.config.js
-```
-
 ## Getting Started
 
 1. **Clone the project**
@@ -71,6 +45,8 @@ To learn more about SvelteKit, check out the [SvelteKit Documentation](https://k
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 ```
 
 Feel free to customize this README to fit your specific project needs and add any additional sections that might be useful for your users, such as a 'Contributing' section, or detailed 'Usage' instructions.
+```
