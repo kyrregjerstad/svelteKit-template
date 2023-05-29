@@ -23,6 +23,11 @@ const config = {
 			$assets: "./src/assets",
 			$images: "./src/assets/images"
 		}
+	},
+	vitePlugin: {
+		experimental: {
+			inspector: true
+		}
 	}
 };
 
