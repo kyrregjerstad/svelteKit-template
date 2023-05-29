@@ -7,7 +7,7 @@ This is a SvelteKit project template configured with your preferred settings and
 1. **Clone the project**
 
 ```bash
-git clone https://github.com/yourusername/your-template-repo.git
+git clone https://github.com/kyrregjerstad/svelteKit-template.git
 ```
 
 2. **Navigate into the project directory**
@@ -19,7 +19,7 @@ cd your-template-repo
 3. **Install the dependencies**
 
 ```bash
-pnpm install
+pnpm i
 ```
 
 4. **Start the development server**
@@ -28,7 +28,7 @@ pnpm install
 pnpm run dev
 ```
 
-Now you should be able to see the project running at localhost:5000.
+Now you should be able to see the project running at localhost:5173.
 
 ## Building for Production
 
