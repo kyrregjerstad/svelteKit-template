@@ -1,7 +1,7 @@
 <script lang="ts">
 	import * as config from "$config";
 	import MetaTags from "$lib/components/SEO/MetaTags.svelte";
-	import "$styles/app.css";
+	import "$styles/app.postcss";
 </script>
 
 <svelte:head>
@@ -13,5 +13,5 @@
 	<slot />
 </main>
 
-<style>
+<style lang="postcss">
 </style>

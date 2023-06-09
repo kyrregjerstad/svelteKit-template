@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 devDependencies:
+  '@csstools/postcss-oklab-function':
+    specifier: ^2.2.3
+    version: 2.2.3(postcss@8.4.24)
   '@sveltejs/adapter-auto':
     specifier: ^2.1.0
     version: 2.1.0(@sveltejs/kit@1.20.2)
